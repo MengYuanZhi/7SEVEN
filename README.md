@@ -1,4 +1,5 @@
 # 7SEVEN
 7梦服务器自制插件
-# 本插件将基于JavaScript语言开发
-# 本插件如需使用，请遵守7梦相关协议
+Power by 7SEVEN MC Server
+# 插件须知
+使用时看这里
